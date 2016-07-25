@@ -61,7 +61,7 @@ Data stored in [data/governmentattic.org/](data/governmentattic.org/)
 
   ```sh
   mkdir -p data/governmentattic.org/fetched
-  wget -r --level 2 --no-directories \
+  wget -r --level 1 --no-directories \
     --accept-regex '/[A-Z]{2}-' \
     --directory-prefix data/governmentattic.org/fetched \
     http://www.governmentattic.org/StateDMV-ForbidPlates.html
