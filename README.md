@@ -5,6 +5,8 @@ A repo to collect public records pertaining to U.S. states' policies on forbidde
 
 [governmentattic.org](http://www.governmentattic.org/StateDMV-ForbidPlates.html) and [MuckRock](https://www.muckrock.com/news/archives/2014/may/05/vanity-plate-rejections-whats-your-state/) have independently tried to collect this information with varying success. This repo will collect and parse their efforts and maybe try to follow up with the holdouts.
 
+Here's a CSV with what's been collected so far: [checklist.csv](checklist.csv)
+
 
 # Past work
 
@@ -28,7 +30,11 @@ I've put their PDFs (and their OCRed versions) in: [data/governmentattic.org/](d
 MuckRock attempted a crowdsourced project in 2014 to get rejected vanity/personalized plates from various states: [Vanity plate rejections: What's in your state?](https://www.muckrock.com/news/archives/2014/may/05/vanity-plate-rejections-whats-your-state/):
 
 
-Subsequent updates to the project show that requests were made to at least [25 states](https://www.muckrock.com/news/archives/2014/may/27/vanity-plate-rejections-update/). The latest update I could find was in [June 27, 2014](https://www.muckrock.com/news/archives/2014/jun/27/rejected-vanity-plates-ma-mt-nj/). Some of the states responded with real spreadsheets. And we can copy the general template of MuckRock's records request letters.
+Subsequent updates to the project show that requests were made to at least [25 states](https://www.muckrock.com/news/archives/2014/may/27/vanity-plate-rejections-update/). The latest update I could find was in [June 27, 2014](https://www.muckrock.com/news/archives/2014/jun/27/rejected-vanity-plates-ma-mt-nj/). Note that the map doesn't appear to be up to date, as California is marked as "submitted" rather than "[completed](https://www.muckrock.com/news/archives/2014/may/27/vanity-plate-rejections-update/))".
+
+
+
+Some of the states responded with real spreadsheets. And we can copy the general template of MuckRock's records request letters.
 
 Here's a few examples
 
