@@ -42,6 +42,7 @@ Here's a few examples
 - [Oregon](https://www.muckrock.com/foi/oregon-158/rejected-personalized-aka-vanity-license-plates-in-2013-oregon-11590/)
 - [Virginia](https://www.muckrock.com/foi/virginia-128/list-of-all-rejected-personalized-virginia-license-plates-in-2013-9837/)
 
+I've put the data (and scripts to collect them) in: [data/muckrock/](data/muckrock)
 
 
 # Todos
